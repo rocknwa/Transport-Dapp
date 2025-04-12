@@ -12,3 +12,5 @@ docs/
 
 # Dotenv file
 .env
+# Coverage directory used by tools like istanbul and nyc
+coverage/
